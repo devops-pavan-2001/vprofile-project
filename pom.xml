@@ -213,7 +213,7 @@
     <repository>
       <id>repsy</id>
       <name>My Private Maven Repository on Repsy</name>
-      <url>https://repo.repsy.io/mvn/jireddy/test</url>
+      <url>https://repo.repsy.io/mvn/jireddy/pavan</url>
     </repository>
    </distributionManagement>
 </project>
