@@ -208,4 +208,12 @@
 		
         </plugins>
     </build>
+
+   <distributionManagement>
+    <repository>
+      <id>repsy</id>
+      <name>My Private Maven Repository on Repsy</name>
+      <url>https://repo.repsy.io/mvn/jireddy/test</url>
+    </repository>
+   </distributionManagement>
 </project>
